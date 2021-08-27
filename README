@@ -1,0 +1,8 @@
+### Prepare your words in the array 'source' in gen.py
+```
+source = ['Hello','Ciao','Привет','Bonjour','γειασας','Hallo']
+```
+### Then start then demo
+```
+$./start_demo.sh
+```
